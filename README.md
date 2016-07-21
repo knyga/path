@@ -4,7 +4,7 @@ Simple routing library using HTML5 history.pushState or hashbang for web browser
 
 ## Installation
 
-	$ npm install pazguille/path
+	$ npm install pathrouter
 
 ### Standalone
 Also, you can use the standalone version without components.
