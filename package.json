@@ -1,6 +1,6 @@
 {
   "name": "pathrouter",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simple routing library using HTML5 history.pushState or hashbang for web browsers.",
   "main": "index.js",
   "scripts": {
