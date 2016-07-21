@@ -1,12 +1,10 @@
-# Path JS
+# Pathrouter JS
 
 Simple routing library using HTML5 history.pushState or hashbang for web browsers.
 
 ## Installation
 
-	$ component install pazguille/path
-
-See: [https://github.com/component/component](https://github.com/component/component)
+	$ npm install pazguille/path
 
 ### Standalone
 Also, you can use the standalone version without components.
@@ -17,7 +15,7 @@ Also, you can use the standalone version without components.
 
 First, initialize the router:
 ```js
-var path = require('path');
+var path = require('pathrouter');
 ```
 
 Now, define some listener for any paths:

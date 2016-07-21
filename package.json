@@ -1,7 +1,7 @@
 {
   "name": "pathrouter",
-  "version": "0.1.1",
-  "description": "",
+  "version": "0.1.1.2",
+  "description": "Simple routing library using HTML5 history.pushState or hashbang for web browsers.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
